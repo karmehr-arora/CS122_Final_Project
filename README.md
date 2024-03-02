@@ -1,7 +1,3 @@
-# CS122_Final_Project
-This is the final project for CS 122 Advanced Python
-
-
 ## Project Title:
 YouTube Analyzer
 
@@ -33,7 +29,7 @@ decisions which YouTube videos are trending.
     only be retrieved through YouTube API and will be refreshed on every search the user makes.
 
 ### Data Analysis and Visualization Plan (Author #2)
-    Our group plans to analyze the data in a way that we can understand the most trending videos in a certain time period 
+    We plan to analyze the data in a way that we can understand the most trending videos in a certain time period 
     (for example by looking at the number of views in that time period) or the most liked videos of the day, etc. We plan on 
     presenting these videos using a graph and a table with links to each of the videos. This will be done using tkinter and python
 
@@ -43,7 +39,7 @@ decisions which YouTube videos are trending.
     should work just as expected.
 
 ### Future Updates
-    In the future, if we were to continue working on the project in another class, we would hyperlink the links for each video 
+    In the future, if we were to continue working on the project, we would hyperlink the links for each video 
     so that, when they are clicked on, they will take you directly to the video. This would be instead of having to copy paste 
     the links. Another change we would make is that we would number the videos to show to the user that the videos are sorted 
     from most trending to least trending.
